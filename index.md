@@ -2,7 +2,7 @@
 
 I am a computer engineering student at CSUF and plan on taking master only if things work out fine for me. 
 
-This is my Git Hub link: https://github.com/TriTam0564
+This is my GitHub link: [https://github.com/TriTam0564](url)
 
 
 ## Favorite CPSC 120L Labs 
